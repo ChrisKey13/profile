@@ -108,4 +108,12 @@ font-size: 40px;
   p {
     margin-bottom: 10px;
   }
+  #ninja-kitten {
+    height: 400px;
+    width: 250px;
+  }
+  #bigger-cta {
+    height: 200px;
+    width: 200px;
+  }
 }
