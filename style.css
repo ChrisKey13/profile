@@ -116,4 +116,8 @@ font-size: 40px;
     height: 200px;
     width: 200px;
   }
+  .smaller-image {
+    height: 200px;
+    width: 150px;
+  }
 }
