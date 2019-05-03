@@ -86,8 +86,8 @@ font-size: 40px;
 }
 
 .smaller-image {
-  height: 350px;
-  width: 400px;
+  height: 250px;
+  width: 280px;
 }
 
 @media (max-width: 960px) {
@@ -95,8 +95,8 @@ font-size: 40px;
     width: 700px;
 }
   .smaller-image {
-    height: 350px;
-    width: 400px;
+    height: 250px;
+    width: 280px;
   }
 }
 @media (max-width: 720px) {
