@@ -85,19 +85,9 @@ display: inline;
 font-size: 40px;
 }
 
-.smaller-image {
-  height: 250px;
-  width: 280px;
-}
-
 @media (max-width: 960px) {
   .container {
     width: 700px;
-}
-  .smaller-image {
-    height: 250px;
-    width: 280px;
-  }
 }
 @media (max-width: 720px) {
   .container {
@@ -105,10 +95,6 @@ font-size: 40px;
   }
   p {
     margin-bottom: 10px;
-  }
-  .smaller-image {
-    height: 150px;
-    width: 200px;
   }
 }
 @media (max-width: 540px) {
@@ -121,17 +107,5 @@ font-size: 40px;
   }
   p {
     margin-bottom: 10px;
-  }
-  #ninja-kitten {
-    height: 100px;
-    width: 50px;
-  }
-  #bigger-cta {
-    height: 200px;
-    width: 200px;
-  }
-  .smaller-image {
-    height: 150px;
-    width: 10S0px;
   }
 }
